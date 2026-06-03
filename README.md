@@ -4,8 +4,9 @@ This repository contains a collection of academic, professional, community, and 
 
 ## Undergraduate Program
 
-[Ant Colony Pathfinding](undergrad/216_Ant_Colony.pdf)
-[Bop It Using Sensors](undergrad/ece167bopit.pdf)
+- [Ant Colony Pathfinding](undergrad/216_Ant_Colony.pdf)
+- [Bop It Using Sensors](undergrad/ece167bopit.pdf)
+- 
 ├── annotated-215_fin_report.pdf
 ├── annotated-ece167lab4.pdf
 ├── annotated-ece171lab5.pdf
