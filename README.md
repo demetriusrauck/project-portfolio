@@ -1,139 +1,33 @@
 # Project Portfolio
 
-This repository contains a collection of academic, professional, community, and personal projects, presentations, reports, media, and supporting materials.
-
-## Repository Structure
-
-```text
-project-portfolio/
-├── README.md
-├── business/
-│   ├── IMG_4997.HEIC
-│   ├── IMG_4998.HEIC
-│   ├── IMG_4999.HEIC
-│   ├── IMG_5352.HEIC
-│   ├── IMG_5359.HEIC
-│   ├── IMG_6197.HEIC
-│   ├── IMG_6212.HEIC
-│   ├── IMG_6591.HEIC
-│   ├── IMG_6606.HEIC
-│   ├── IMG_7050.HEIC
-│   ├── IMG_8648.HEIC
-│   ├── IMG_8650.HEIC
-│   ├── IMG_8950.HEIC
-│   ├── IMG_8951.HEIC
-│   └── IMG_8952.HEIC
-│
-├── community/
-│   ├── IMG_0640.JPG
-│   ├── IMG_2024.HEIC
-│   ├── IMG_2025.HEIC
-│   ├── IMG_4075.HEIC
-│   ├── IMG_4076.MOV
-│   ├── IMG_4819.HEIC
-│   ├── IMG_4820.HEIC
-│   └── IMG_4821.HEIC
-│
-├── hobby/
-│   ├── IMG_4907.HEIC
-│   ├── IMG_6172.HEIC
-│   ├── IMG_6209.HEIC
-│   ├── IMG_9366.HEIC
-│   ├── IMG_9841.HEIC
-│   └── IMG_9842.HEIC
-│
-├── masters/
-│   ├── Final Project Kinematics.pptx
-│   ├── Group 7 Presentation Demetrius Rauck James Cunningham.mp4
-│   ├── ItR Final Presentation - Google Slides — Mozilla Firefox 2026-05-03 18-14-27.mp4
-│   ├── ItR Final Presentation.pptx
-│   └── kinematics_final_project_recording.mp4
-│
-└── undergrad/
-    ├── 216_Ant_Colony.pdf
-    ├── annotated-215_fin_report.pdf
-    ├── annotated-ece167lab4.pdf
-    ├── annotated-ece171lab5.pdf
-    ├── annotated-ECE_121_Lab_0.pdf
-    ├── annotated-Space_Jam_Lab_Report (1).pdf
-    ├── ece167bopit.pdf
-    ├── IMG_3630.jpg
-    ├── IMG_7247.HEIC
-    ├── IMG_7879.MOV
-    └── Report for Capstone Final.pdf
-```
-
 ## Business
 
-```text
-business/
-├── IMG_4997.HEIC
-├── IMG_4998.HEIC
-├── IMG_4999.HEIC
-├── IMG_5352.HEIC
-├── IMG_5359.HEIC
-├── IMG_6197.HEIC
-├── IMG_6212.HEIC
-├── IMG_6591.HEIC
-├── IMG_6606.HEIC
-├── IMG_7050.HEIC
-├── IMG_8648.HEIC
-├── IMG_8650.HEIC
-├── IMG_8950.HEIC
-├── IMG_8951.HEIC
-└── IMG_8952.HEIC
-```
+### Project Example 1
+
+![IMG_4997](business/IMG_4997.jpg)
+
+### Project Example 2
+
+![IMG_4998](business/IMG_4998.jpg)
+
+### Project Example 3
+
+![IMG_4999](business/IMG_4999.jpg)
 
 ## Community
 
-```text
-community/
-├── IMG_0640.JPG
-├── IMG_2024.HEIC
-├── IMG_2025.HEIC
-├── IMG_4075.HEIC
-├── IMG_4076.MOV
-├── IMG_4819.HEIC
-├── IMG_4820.HEIC
-└── IMG_4821.HEIC
-```
+![IMG_0640](community/IMG_0640.JPG)
+
+![IMG_2024](community/IMG_2024.jpg)
+
+![IMG_2025](community/IMG_2025.jpg)
 
 ## Hobby
 
-```text
-hobby/
-├── IMG_4907.HEIC
-├── IMG_6172.HEIC
-├── IMG_6209.HEIC
-├── IMG_9366.HEIC
-├── IMG_9841.HEIC
-└── IMG_9842.HEIC
-```
+![IMG_4907](hobby/IMG_4907.jpg)
 
-## Master's Program
+![IMG_6172](hobby/IMG_6172.jpg)
 
-```text
-masters/
-├── Final Project Kinematics.pptx
-├── Group 7 Presentation Demetrius Rauck James Cunningham.mp4
-├── ItR Final Presentation - Google Slides — Mozilla Firefox 2026-05-03 18-14-27.mp4
-├── ItR Final Presentation.pptx
-└── kinematics_final_project_recording.mp4
-```
+## Undergraduate
 
-## Undergraduate Program
-
-```text
-undergrad/
-├── 216_Ant_Colony.pdf
-├── annotated-215_fin_report.pdf
-├── annotated-ece167lab4.pdf
-├── annotated-ece171lab5.pdf
-├── annotated-ECE_121_Lab_0.pdf
-├── annotated-Space_Jam_Lab_Report (1).pdf
-├── ece167bopit.pdf
-├── IMG_3630.jpg
-├── IMG_7247.HEIC
-├── IMG_7879.MOV
-└── Report for Capstone Final.pdf
-```
+![IMG_3630](undergrad/IMG_3630.jpg)
