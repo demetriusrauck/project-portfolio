@@ -2,10 +2,22 @@
 
 This repository contains a collection of academic, professional, community, and personal projects, presentations, reports, media, and supporting materials.
 
-## Repository Structure
+## Undergraduate Program
 
+[Ant Colony Pathfinding](undergrad/216_Ant_Colony.pdf)
+├── annotated-215_fin_report.pdf
+├── annotated-ece167lab4.pdf
+├── annotated-ece171lab5.pdf
+├── annotated-ECE_121_Lab_0.pdf
+├── annotated-Space_Jam_Lab_Report (1).pdf
+├── ece167bopit.pdf
+├── IMG_3630.jpg
+├── IMG_7247.HEIC
+├── IMG_7879.MOV
+└── Report for Capstone Final.pdf
 
-project-portfolio/
+#Business
+```text
 ├── README.md
 ├── business/
 │   ├── IMG_4997.HEIC
@@ -121,19 +133,3 @@ masters/
 └── kinematics_final_project_recording.mp4
 ```
 
-## Undergraduate Program
-
-```text
-undergrad/
-├── 216_Ant_Colony.pdf
-├── annotated-215_fin_report.pdf
-├── annotated-ece167lab4.pdf
-├── annotated-ece171lab5.pdf
-├── annotated-ECE_121_Lab_0.pdf
-├── annotated-Space_Jam_Lab_Report (1).pdf
-├── ece167bopit.pdf
-├── IMG_3630.jpg
-├── IMG_7247.HEIC
-├── IMG_7879.MOV
-└── Report for Capstone Final.pdf
-```
